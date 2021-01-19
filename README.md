@@ -3,7 +3,7 @@
 Before downloading the source files, please make sure to have node js and npm on your system. 
 
 After downloading the source files, please enter the following commands for the first time in the directory where you have the source files stored :
-1) Enter: npm init -y  
+1) npm init -y  
 2) npm install express
 3) npm install nodemon
 4) python app.py
