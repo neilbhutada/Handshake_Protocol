@@ -8,6 +8,7 @@ After downloading the source files, please enter the following commands for the 
 2) npm install nodemon
 3) python app.py
 4) npm start
+5) Go to local host 3000 to see the webpage
 
 If you want to have a look at the project after seeing for the first time, you just have to enter: npm start 
 
